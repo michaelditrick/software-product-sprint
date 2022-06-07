@@ -1,9 +1,17 @@
-#content {
-  margin-left: auto;
-  margin-right: auto;
-  width: 650px;
+
+#myBody {
+    
+    background-color:  #0a192f;;
+    font: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+    
 }
 
-#greeting-container {
-  margin-top: 20px;
+#project-title {
+    font-size: 10px;
+    font: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+}
+
+#project-list {
+    font-size: 10px;
+    font: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
 }
